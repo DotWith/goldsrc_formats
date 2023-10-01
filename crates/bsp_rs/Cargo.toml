@@ -1,0 +1,13 @@
+[package]
+name = "bsp_rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+binrw = "0.11.2"
+image = { version = "0.24.7", default-features = false, features = ["tga"] }
+valve_fmt_shared = { version = "0.1.0", path = "../valve_fmt_shared" }
+
+[[example]]
+name = "bsp"
+path = "examples/bsp.rs"
