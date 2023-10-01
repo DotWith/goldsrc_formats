@@ -2,6 +2,12 @@
 name = "valve_fmt_shared"
 version = "0.1.0"
 edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "Some common Valve BinRW types"
+homepage = "https://github.com/DotWith/goldsrc_formats/"
+documentation = "https://docs.rs/bsp_rs"
+repository = "https://github.com/DotWith/goldsrc_formats/"
+keywords = ["valve"]
 
 [dependencies]
-binrw = "0.11.2"
+binrw = "0.12.0"
