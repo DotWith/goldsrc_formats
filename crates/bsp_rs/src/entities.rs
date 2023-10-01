@@ -1,6 +1,6 @@
 use std::collections::HashMap;
 
-use valve_fmt_shared::Vec3;
+use com_goldsrc_formats::Vec3;
 
 pub type Entity = HashMap<String, EntityValue>;
 

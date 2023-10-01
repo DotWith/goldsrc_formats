@@ -1,7 +1,7 @@
 use std::io::{Cursor, SeekFrom};
 
 use binrw::prelude::*;
-pub use valve_fmt_shared::prelude::*;
+pub use com_goldsrc_formats::prelude::*;
 
 pub const MAX_STUDIO_NAME: usize = 32;
 

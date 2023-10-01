@@ -11,4 +11,4 @@ keywords = ["valve"]
 
 [dependencies]
 binrw = "0.12.0"
-valve_fmt_shared = { version = "0.1.0", path = "../valve_fmt_shared" }
+com_goldsrc_formats = { version = "0.1.0", path = "../com_goldsrc_formats" }

@@ -1,5 +1,5 @@
 [package]
-name = "valve_fmt_shared"
+name = "com_goldsrc_formats"
 version = "0.1.0"
 edition = "2021"
 license = "MIT OR Apache-2.0"

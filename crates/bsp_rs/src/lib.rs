@@ -5,7 +5,7 @@ use std::{
 };
 
 use binrw::prelude::*;
-pub use valve_fmt_shared::prelude::*;
+pub use com_goldsrc_formats::prelude::*;
 
 pub use cubemap::*;
 pub use entities::*;
