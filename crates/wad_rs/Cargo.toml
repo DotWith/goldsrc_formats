@@ -1,5 +1,5 @@
 [package]
-name = "wad_rs"
+name = "wad_goldsrc"
 version = "0.1.0"
 edition = "2021"
 license = "MIT OR Apache-2.0"
