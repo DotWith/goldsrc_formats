@@ -29,9 +29,9 @@ pub struct WadEntry {
     kind: ContentType,
     #[br(seek_before = SeekFrom::Start(offset as u64), args(kind, size), restore_position)]
     pub content: Content,
-    #[br(seek_before = SeekFro/*m::Start(offset as u64), restore_position)]
-    #[br(count = size)]
-    pub data: Vec<u8>,*/
+    // #[br(seek_before = SeekFrom::Start(offset as u64), restore_position)]
+    // #[br(count = size)]
+    // pub data: Vec<u8>,
 }
 
 #[binread]
