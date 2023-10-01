@@ -5,7 +5,7 @@ edition = "2021"
 license = "MIT OR Apache-2.0"
 description = "Some common Valve BinRW types"
 homepage = "https://github.com/DotWith/goldsrc_formats/"
-documentation = "https://docs.rs/bsp_rs"
+documentation = "https://docs.rs/com_goldsrc_formats"
 repository = "https://github.com/DotWith/goldsrc_formats/"
 keywords = ["valve"]
 

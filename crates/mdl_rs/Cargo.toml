@@ -5,7 +5,7 @@ edition = "2021"
 license = "MIT OR Apache-2.0"
 description = "A Valve MDL loader"
 homepage = "https://github.com/DotWith/goldsrc_formats/"
-documentation = "https://docs.rs/bsp_rs"
+documentation = "https://docs.rs/mdl_rs"
 repository = "https://github.com/DotWith/goldsrc_formats/"
 keywords = ["valve"]
 
